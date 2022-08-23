@@ -1,1 +1,1 @@
-# In this project, we will explore Toronto venues with Foursquare.  
+### In this project, we will explore Toronto venues with Foursquare.  
