@@ -1,1 +1,1 @@
-# Explore-Toronto-Using-Foursquare
+# In this project, we will explore Toronto venues with Foursquare.  
